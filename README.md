@@ -86,3 +86,14 @@ Seu desafio de hoje é criar os destinos possíveis de um jogo, em que o usuári
 O importante é que a pessoa que estiver jogando possa sempre **escolher qual decisão tomar para conseguir aprender** e se desenvolver na área de programação.
 
 Além disso, também é essencial que, ao final do jogo, ela possa **inserir quantas tecnologias quiser na lista de aprendizado**. 
+
+## Dia 4 - Concluído!
+Você já brincou de tentar adivinhar o número que seu amigo ou amiga estava pensando? Hoje você vai voltar na infância e fazer exatamente isso. Mas agora, **o jogo vai ser contra o próprio computador**!
+
+Você deve criar um programinha que **comece com um valor específico pré-definido entre 0 a 10** para o número que você vai adivinhar (7, por exemplo).
+
+Em seguida, o programa vai perguntar para você qual o valor que você deseja chutar e, caso você acerte, ele irá te **parabenizar**. Caso erre, ele vai te dar mais **2 tentativas**.
+
+No fim, caso você não acerte nenhuma vez, ele vai **imprimir qual era o número inicial**.
+
+Depois que o programinha estiver funcionando, tente usar um número randômico em vez de um número pré-definido.
